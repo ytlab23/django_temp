@@ -1,3 +1,0 @@
-{hello this is a spinned text that can have different variants|Hello, this is a spinned message that can be modified to have different versions|Hello this is a pin text that can have multiple variants|hello, this is the spinned text which can have many variants|hello this is an example of a spinned word that can have various variants}
-The follow up text {The End | Happy | Sad}{.|;|,}
-//The spyntaxt
